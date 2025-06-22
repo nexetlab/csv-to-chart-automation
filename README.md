@@ -37,7 +37,7 @@ A powerful Streamlit-based web app for visualizing **control charts** from struc
 ### 📦 Local Setup
 
 ```bash
-git clone https://github.com/your-username/control-chart-visualizer.git
+git clone https://github.com/nexetlab/csv-to-chart-automation.git
 cd control-chart-visualizer
 pip install -r requirements.txt
 streamlit run app.py
